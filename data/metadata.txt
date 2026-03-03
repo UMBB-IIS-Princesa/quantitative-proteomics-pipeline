@@ -1,0 +1,21 @@
+Column	Batch	Condition	Rep	Label
+Reporter intensity corrected 1 Pat_tbc_pool_1	batch1	ref	1	batch1_ref_1
+Reporter intensity corrected 2 Pat_tbc_pool_1	batch1	HC	1	batch1_HC_1
+Reporter intensity corrected 3 Pat_tbc_pool_1	batch1	PTB	1	batch1_PTB_1
+Reporter intensity corrected 4 Pat_tbc_pool_1	batch1	HC	2	batch1_HC_2
+Reporter intensity corrected 5 Pat_tbc_pool_1	batch1	PTB	2	batch1_PTB_2
+Reporter intensity corrected 6 Pat_tbc_pool_1	batch1	HC	3	batch1_HC_3
+Reporter intensity corrected 7 Pat_tbc_pool_1	batch1	PTB	3	batch1_PTB_3
+Reporter intensity corrected 8 Pat_tbc_pool_1	batch1	TBL	1	batch1_TBL_1
+Reporter intensity corrected 9 Pat_tbc_pool_1	batch1	TBL	2	batch1_TBL_2
+Reporter intensity corrected 10 Pat_tbc_pool_1	batch1	TBL	3	batch1_TBL_3
+Reporter intensity corrected 1 Pat_tbc_pool_2	batch2	ref	1	batch2_ref_1
+Reporter intensity corrected 2 Pat_tbc_pool_2	batch2	Rx	1	batch2_Rx_1
+Reporter intensity corrected 3 Pat_tbc_pool_2	batch2	HC	1	batch2_HC_1
+Reporter intensity corrected 4 Pat_tbc_pool_2	batch2	Rx	2	batch2_Rx_2
+Reporter intensity corrected 5 Pat_tbc_pool_2	batch2	HC	2	batch2_HC_2
+Reporter intensity corrected 6 Pat_tbc_pool_2	batch2	Rx	3	batch2_Rx_3
+Reporter intensity corrected 7 Pat_tbc_pool_2	batch2	HC	3	batch2_HC_3
+Reporter intensity corrected 8 Pat_tbc_pool_2	batch2	PTB	1	batch2_PTB_1
+Reporter intensity corrected 9 Pat_tbc_pool_2	batch2	PTB	2	batch2_PTB_2
+Reporter intensity corrected 10 Pat_tbc_pool_2	batch2	PTB	3	batch2_PTB_3
