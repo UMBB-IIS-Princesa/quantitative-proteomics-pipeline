@@ -472,7 +472,7 @@ htt<-draw(
 
 # Over Representation Analysis ----
 
-res_sig <- res_deqms %>% dplyr::filter(sca.adj.pval <= 0.05, abs(logFC) >= 1) # upregulated significant proteins
+res_sig <- res_deqms %>% dplyr::filter(sca.adj.pval <= 0.05, abs(logFC) >= 1)
 all_proteins <- unique(data_qc$gene) 
 sig_proteins <- unique(res_sig$gene)
 
